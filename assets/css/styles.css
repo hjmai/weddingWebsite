@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+.cursive{
+    font-family: 'Dancing Script', cursive;
+}
+.straightText{
+    font-family: 'Raleway', sans-serif;
+}
+.landingBanner{
+    height: 95vh;
+    background: url('../images/TIM_05011.jpg');
+    background-size: 100%;
+    text-align: center;
+    color: white;
+}
